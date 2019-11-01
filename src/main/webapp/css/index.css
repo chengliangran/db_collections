@@ -1,0 +1,60 @@
+.nav_bar{
+    width:1000px;
+    height: 30px;
+}
+
+.nav_content{
+    width:1000px;
+ }
+.nav_div{
+    height: 50px;
+    width: 50px;
+  }
+
+.huge_div {
+    height: 300px;
+    width: 300px;
+
+}
+
+.border_red{
+    border: 1px solid red;
+}
+
+.border_orange{
+    border: 1px solid orange ;
+}
+
+.border_purple{
+    border: 1px solid purple;
+}
+
+.il{
+    display: inline;
+}
+
+/*列表的css*/
+.nav_ul{
+    margin: 0px;
+
+}
+.nav_ul li{
+    width: 100px;
+    height: 28px;
+    background-color: antiquewhite;
+    border: 1px solid Scrollbar;
+    margin-right: 5px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 28px;
+
+}
+
+.inline_div{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+    border: 1px solid greenyellow;
+}
