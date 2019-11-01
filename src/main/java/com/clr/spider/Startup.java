@@ -10,6 +10,9 @@ import java.net.URL;
  */
 
 public class Startup {
+    public static String
+
+
     public static void main(String[] args) {
         //Spider spider = new Spider();
         try {
